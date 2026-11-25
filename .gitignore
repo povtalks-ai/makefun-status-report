@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+kit.tar.gz
+u-neon-autonomous-status-report-comedy-sprint-a8dad335-kit/
+makefun-keypair.json
+SUBMIT-NOTES.md
